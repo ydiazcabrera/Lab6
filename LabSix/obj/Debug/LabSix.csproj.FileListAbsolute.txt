@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\LabSix\LabSix\obj\Debug\LabSix.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\LabSix\LabSix\obj\Debug\LabSix.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\LabSix\LabSix\bin\Debug\LabSix.exe.config
+C:\Users\yendi\source\repos\LabSix\LabSix\bin\Debug\LabSix.exe
+C:\Users\yendi\source\repos\LabSix\LabSix\bin\Debug\LabSix.pdb
+C:\Users\yendi\source\repos\LabSix\LabSix\obj\Debug\LabSix.exe
+C:\Users\yendi\source\repos\LabSix\LabSix\obj\Debug\LabSix.pdb
